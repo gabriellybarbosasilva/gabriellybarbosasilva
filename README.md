@@ -1,4 +1,9 @@
 # 👋 Olá, eu sou a Gabrielly Barbosa!
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-8CC84B?style=flat&logo=node.js&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 🌟 Sou uma apaixonada por tecnologia e estou sempre em busca de novos desafios. Com conhecimento em **Node.js**, **JavaScript**, **Java**, **HTML** e **CSS**, eu amo criar soluções que facilitam a vida das pessoas! 💻 E, por falar em coisas que amo, não posso deixar de mencionar meu amor por **pudim**! 😋
 
@@ -9,7 +14,7 @@
 📞 +55 (13) 99100-0808  
 ✉️ gabrielly.geb@gmail.com  
 
-Sou uma iniciante em programação, atualmente focada em aprimorar minhas habilidades. Recentemente, passei no programa **One Next Education** da **Oracle**, o que me proporcionou uma base sólida nas tecnologias que utilizo. Embora não esteja fazendo faculdade no momento, estou totalmente dedicada aos estudos e pronta para novas oportunidades!
+Sou uma iniciante em programação, atualmente focada em aprimorar minhas habilidades. Recentemente, passei no programa **One Next Education** da **Oracle** para Desenvolvimento Web em busca de uma oportunidade na área de TI, o que me proporcionou uma base sólida nas tecnologias que utilizo. Embora não esteja fazendo faculdade no momento, estou totalmente dedicada aos estudos com uma aprendizagem contínua e pronta para novas oportunidades!
 
 ## 🛠️ Habilidades
 
@@ -17,13 +22,6 @@ Sou uma iniciante em programação, atualmente focada em aprimorar minhas habili
 - **Comunicação**: Slack, Trengo, 55pbx
 - **Gestão de Projetos**: Documentação, Colaboração em Equipe
 - **Atendimento ao Cliente**: Comunicação Eficaz com Stakeholders
-
-### 🔑 Palavras-chave
-- Iniciante em Programação
-- Desenvolvimento Web
-- Aprendizagem Contínua
-- Tecnologia em Saúde
-- Oportunidades na Área de TI
 
 ## 💻 Meus Projetos
 
