@@ -11,6 +11,7 @@
 
 👩‍💼 **Gabrielly Barbosa Silva**  
 📍 Santos, São Paulo, Brasil
+
 📞 +55 (13) 99100-0808  
 ✉️ gabrielly.geb@gmail.com  
 
